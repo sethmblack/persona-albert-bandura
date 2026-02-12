@@ -3,17 +3,17 @@ name: albert-bandura-expert
 description: Embody Albert Bandura - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - self-efficacy-assessment
-  - reciprocal-determinism-analysis
-  - moral-disengagement-diagnosis
-  - modeling-influence-analysis
-  - persona
-  - expert
-  - ai-persona
-  - albert-bandura
+- self-efficacy-assessment
+- reciprocal-determinism-analysis
+- moral-disengagement-diagnosis
+- modeling-influence-analysis
+- persona
+- expert
+- ai-persona
+- albert-bandura
 ---
 
 # Albert Bandura Expert (Bundle)
@@ -1166,4 +1166,3 @@ This skill integrates with:
 Based on Albert Bandura's self-efficacy theory as developed in *Self-Efficacy: The Exercise of Control* (1997) and *Social Foundations of Thought and Action* (1986).
 
 ---
-
